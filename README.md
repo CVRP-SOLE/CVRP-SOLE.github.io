@@ -4,6 +4,12 @@ This is the repository that contains source code for the [SOLE website](https://
 
 If you find SOLE useful for your work please cite:
 ```
+@article{lee2024segment,
+      title = {Segment Any 3D Object with Language}, 
+      author = {Lee, Seungjun and Zhao, Yuyang and Lee, Gim Hee},
+      year = {2024}
+      journal   = {arXiv preprint arXiv:2404.02157},
+}
 ```
 
 # Website License
